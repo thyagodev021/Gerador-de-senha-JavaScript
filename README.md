@@ -2,9 +2,8 @@
 
 > Gere senhas seguras com estilo — inspirado no Pilar do Trovão de Demon Slayer.
 
-![Preview do Projeto](site.PNG)
 
----
+
 
 ## 📋 Sobre o Projeto
 
